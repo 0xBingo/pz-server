@@ -1,3 +1,5 @@
+---
+
 name: terraform-lint
 
 on:
